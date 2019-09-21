@@ -1,0 +1,4 @@
+.venv
+.vscode
+ethgasAPI.json
+predictTable.json
