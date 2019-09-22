@@ -2,4 +2,9 @@
 .vscode
 ethgasAPI.json
 predictTable.json
-*.py[co]
+*.py[cdo]
+*.egg
+*.egg-info
+.eggs
+build
+dist
