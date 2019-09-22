@@ -2,3 +2,4 @@
 .vscode
 ethgasAPI.json
 predictTable.json
+*.py[co]
