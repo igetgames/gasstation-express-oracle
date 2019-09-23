@@ -30,9 +30,9 @@ setup(
     include_package_data=True,
     python_requires='>=3.6,<4',
     install_requires=[
-        'numpy==1.13.3',
-        'pandas==0.21.0',
-        'web3==3.16.4',
+        'numpy>=1.17.0,<2',
+        'pandas>=0.25.0,<0.26',
+        'web3>=5.1.0,<6',
     ],
     setup_requires=['setuptools-markdown'],
     extras_require=extras_require,
